@@ -1,0 +1,30 @@
+{
+  "name": "cos_journa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COSFinTechHoldingLLC/COS_journA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/COSFinTechHoldingLLC/COS_journA/issues"
+  },
+  "homepage": "https://github.com/COSFinTechHoldingLLC/COS_journA#readme",
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "html-validate": "^10.5.0",
+    "linkinator": "^7.5.3",
+    "stylelint": "^17.0.0"
+  }
+}
