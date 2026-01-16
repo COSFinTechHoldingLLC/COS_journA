@@ -16,4 +16,4 @@ jobs:
           node-version: 18
 
       - run: npm install
-      - run: ./scripts/test_frontend.sh
+      - run: bash scripts/test_frontend.sh
