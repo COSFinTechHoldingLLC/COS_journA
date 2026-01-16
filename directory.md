@@ -1,3 +1,4 @@
+
 ```
 COS_journaA/
 |
@@ -29,6 +30,7 @@ COS_journaA/
 ├── package.json
 └── directory.md
 ```
+
 ```
 # 1. Validate HTML
 html-validate public/**/*.html
